@@ -9,7 +9,7 @@
 
 <!-- Short Bio -->
 <!-- </samp> for  -->
-<p>Welcome to my profile! </br> I'm a <b>Full-Stack Developer</b> currently building in with the <b>Mern Stack.</b> I am dedicated to creating tech-focused platforms, enhancing user experiences, and solving real-world problems.</p>
+<p>Welcome to my profile! </br> I'm a <b>Full-Stack Developer</b> currently building with the <b>Mern Stack.</b> I am dedicated to creating tech-focused platforms, enhancing user experiences, and solving real-world problems.</p>
 
 
 <!-- Tech Stack -->
