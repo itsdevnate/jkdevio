@@ -11,11 +11,13 @@ I'm a **Full-Stack Developer** specializing in the **MEVN Stack** (MongoDB, Expr
 ## Tech Stack
 
 ### Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)
 
 ### Frontend Development
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=white)
@@ -23,11 +25,13 @@ I'm a **Full-Stack Developer** specializing in the **MEVN Stack** (MongoDB, Expr
 ![SASS](https://img.shields.io/badge/Sass-05122A?style=flat&logo=sass&logoColor=white)
 
 ### Cloud & Deployment
+
 ![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-05122A?style=flat&logo=render&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-05122A?style=flat&logo=github&logoColor=white)
 
 ### Tools & Software
+
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-05122A?style=flat&logo=notion&logoColor=white)
@@ -37,7 +41,7 @@ I'm a **Full-Stack Developer** specializing in the **MEVN Stack** (MongoDB, Expr
 
 <div>
 <a href="https://github.com/jkdevio">
-      <img alt="Jonathan's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=jkdevio&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jkdevio&theme=monokai-metallian)](https://git.io/streak-stats)
 </a>
 </div>
 
