@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jonathan Kalu
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=appveyor&logoColor=white)](https://jkdevio-portfolio.vercel.app/)
-[![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github&logoColor=white)](https://github.com/jkdevio)
+[![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github&logoColor=white)](https://github.com/itsnatedev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathankalu)
 
 ## About Me
@@ -41,17 +41,17 @@ I'm a **Full-Stack Developer** specializing in the **MEVN Stack** (MongoDB, Expr
 
 <div>
 <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=jkdevio&theme=github-dark-blue&hide_longest_streak=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=itsnatedev&theme=github-dark-blue&hide_longest_streak=false" alt="GitHub Streak" />
 </a>
 </div>
 
 ## Activity Graph
 
-![Jonathan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=jkdevio&custom_title=Jonathan's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Jonathan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsnatedev&custom_title=Jonathan's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Thanks for visiting!](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![Star some repositories](https://img.shields.io/badge/Star%20⭐%20some%20repositories%20you%20find%20helpful!%20-05122A)
-![GitHub followers](https://img.shields.io/github/followers/jkdevio?style=flat&logo=github&color=05122A&labelColor=05122A)
-![Profile Views](https://komarev.com/ghpvc/?username=jkdevio&style=flat&labelolor=05122A&color=05122A)
+![GitHub followers](https://img.shields.io/github/followers/itsnatedev?style=flat&logo=github&color=05122A&labelColor=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=itsnatedev&style=flat&labelolor=05122A&color=05122A)
