@@ -37,7 +37,7 @@ I'm a **Full-Stack Developer** specializing in the **MEVN Stack** (MongoDB, Expr
 ![Notion](https://img.shields.io/badge/Notion-05122A?style=flat&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=white)
 
-## Current Stats
+## Current Stat
 
 <div>
 <a href="https://git.io/streak-stats">
