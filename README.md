@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jonathan Kalu
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=appveyor&logoColor=white)](https://jkdevio-portfolio.vercel.app/)
-[![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github&logoColor=white)](https://github.com/itsnatedev)
+[![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github&logoColor=white)](https://github.com/itsnatedevs)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathankalu)
 
 ## About Me
